@@ -1,5 +1,7 @@
 version = 1
 
+test_patterns = ["assert.py"]
+
 [[analyzers]]
 name = "python"
 enabled = true
