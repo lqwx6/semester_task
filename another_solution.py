@@ -43,4 +43,3 @@ def divide(cmplx_numbers):
     a, b = get_numbers(cmplx_numbers)
     c = a / b
     return [float(f'{c.real:.4f}'), float(f'{c.imag:.4f}')]
-    
